@@ -83,4 +83,3 @@ if (votes == 0) {
 randomProduct();
 console.log(activeSet);
 console.log(Product.allProducts);
-// console.log(excludeSet);
